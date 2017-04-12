@@ -1,0 +1,71 @@
+/*
+1. ORDEN
+2. ESPECIFICIDAD
+3. IMPORTANCIA (!important)
+*/
+
+header{
+	background-color: #ECA400;
+}
+h1{
+	color:#57f2ef;
+	text-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+	font-family:  'Arsenal', sans-serif;
+	font-size: 20px
+	color:(0,29,74,0.5);
+}
+
+.subtitulo{
+	color: white;
+}
+a{
+	color: rgba(247, 42, 189, 0.5);
+}
+.parrafo1{
+	color:rgba(0,29,74,0.5); 
+	font-family: 'Cabin', sans-serif;
+	letter-spacing: 3px;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+.parrafo2{
+	color:rgba(39,71,110,0.5); 
+	font-family: 'Arsenal', sans-serif;
+ 	word-spacing: 10px
+ 	font-size: 12px;
+ }
+
+.parrafo3{color: rgba(0,105,146,0.5);
+	font-family: 'Nunito', sans-serif; 
+	font-weight: 400
+	line-height: 90%
+}
+
+.section1 {
+	background-color: : #EAF8BF;
+}
+.h31s{
+	color:#ECA400;
+}
+.link{
+	text-decoration: none;
+}
+.icono{
+	font-size: 40px;
+}
+.facebook{
+	color: #3b5998;
+}
+.twitter{
+	color: #55acee;
+}
+.instagram{
+	color: 	#125688;
+}
+.linkedin{
+	color: #007bb5;
+}
+.lista{
+	list-style:none;
+}
